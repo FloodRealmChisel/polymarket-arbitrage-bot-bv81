@@ -1,4 +1,4 @@
-# 
+# Polymarket quantitative Strategy: scalping-strategies & API-integration is the best Polymarket strategy, featuring scalping-strategies and API-integration. Smart, fast, and
 
 
 
